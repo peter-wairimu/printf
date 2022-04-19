@@ -1,7 +1,7 @@
-# 0x10. C - printf
+# 0x11. C - printf
 
 ## Description
-This team project is part of the first year curriculum of Holberton School.
+This team project is part of the first year curriculum of ALX.
 _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
@@ -25,7 +25,7 @@ along with regular characters
 
 ## Examples
 
-* ```_printf("Hello\n")``` *prints "Hello, Holberton", followed by a new line*
+* ```_printf("Hello\n")``` *prints "Hello!", followed by a new line*
 * ```_printf("%s", "Hello")``` *prints "Hello"*
 * ```_printf("This is a number: %d", 98)``` *prints "This is a number: 98"*
 
@@ -92,5 +92,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **Rachel Okelo**
+* **Rachel Okello**
 * **Peter wairimu**
